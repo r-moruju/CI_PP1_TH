@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Lobster&display=swap');
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #262B33;
+    background-color: #F2F2EF;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+}
