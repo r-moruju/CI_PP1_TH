@@ -2,10 +2,54 @@
 
 body {
     font-family: 'Josefin Sans', sans-serif;
-    color: #262B33;
+    color: #2e2f33;
     background-color: #F2F2EF;
+    margin: 0 30px;
 }
+
+/* header */
 
 h1 {
     font-family: 'Lobster', cursive;
+    color: #F2F2EF;
+    line-height: 270px;
+    margin-left: 50px;
+    font-size: 400%;
+    letter-spacing: 3px;
+}
+
+#header {
+    height: 270px;
+    width: 100%;
+    background-image: url(../images/header.jpg);
+    background-size: cover;
+}
+
+#navigation {
+    position: absolute;
+    top: 18px;
+    right: 50px;
+}
+
+#navigation li {
+    float: right;
+    list-style-type: none;
+    font-size: 280%;
+    margin: 20px;
+    line-height: 270px;
+}
+
+#navigation li a {
+    color: #F2F2EF;
+    text-decoration: none;
+    padding: 5px;
+}
+
+#navigation a:hover {
+    color: red;
+    border: solid 2px red;
+}
+
+.active {
+    border: solid 2px red;
 }
