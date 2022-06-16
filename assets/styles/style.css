@@ -54,7 +54,7 @@ h1 {
 }
 
 .active {
-    border: solid 2px red;
+    border: solid 1px white;
 }
 
 /* main section on front page */
@@ -151,10 +151,42 @@ h1 {
 
 /* Footer */
 
-#footer {
-    height: 80px;
+footer {
+    height: 110px;
     background-color: #2e2f33;
     width: 100%;
     text-align: center;
     color: #F2F2EF;
+}
+
+footer li {
+    display: inline;
+    padding: 0 2%;
+}
+
+footer i {
+    font-size: 160%;
+    color: #F2F2EF;
+}
+
+footer ul {
+    margin: 0;
+    padding-top: 30px;
+    padding-left: 0;
+}
+
+/* Contact Page */
+
+#contact {
+    height: 1200px;
+    width: 100%;
+    background-color: #2e2f33;
+}
+
+/* Gallery Page*/
+
+#gallery {
+    height: 1200px;
+    width: 100%;
+    background-color: #2e2f33;
 }
