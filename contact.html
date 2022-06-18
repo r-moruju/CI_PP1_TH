@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The Hairdresser website. A barber shop in London">
     <meta name="keywords" content="barber shop, barber, hairstyle, shave, beard">
-    <title>The Hairdresser</title>
+    <title>The Hairdresser|Contact</title>
     <link rel="stylesheet" href="assets/styles/style.css">
 </head>
 <body>
@@ -31,7 +31,31 @@
     </header>
 
     <section id="contact">
+        <h2>Get in Touch</h2>
+        <p><i class="fa-solid fa-phone"></i> Call us on: <strong>0123 456 789</strong> <br><br> Or leave your message below</p>
+        <div id="contact-form">
+            <form action="#" method="post">
+                <label for="name">Name:</label><br>
+                <input type="text" name="name" id="name" placeholder="Your Name*" required class="user-input"><br>
 
+                <label for="phone-nr">Phone:</label><br>
+                <input type="text" name="phone-nr" id="phone-nr" placeholder="Your phone number*" required class="user-input"><br>
+
+                <label for="e-mail">E-mail:</label><br>
+                <input type="email" name="e-mail" id="e-mail" placeholder="Your E-mail*" required class="user-input"><br>
+
+                <label for="message">Your message:</label><br>
+                <textarea name="message" id="message" cols="50" rows="7" placeholder="Type your message here"></textarea>
+
+                <p>How would you like to be contacted?</p>
+                <label for="call">By phone</label>
+                <input type="radio" name="how" id="call" value="by-phone" required>
+                <label for="sent-email">By e-mail</label>
+                <input type="radio" name="how" id="send-email" value="by-email">
+
+                <input type="submit" value="Send Your Message" class="send-button">
+            </form>
+        </div>
     </section>
     
     <footer>
@@ -45,9 +69,6 @@
                 </li>
                 <li>
                     <a href="https://instagram.com" target="_blank" rel="noopener" aria-label="visit our instagram page"><i class="fa-brands fa-instagram-square"></i></a>
-                </li>
-                <li>
-                    <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="visit our youtube page"><i class="fa-brands fa-youtube-square"></i></a>
                 </li>
             </ul>
             <p><span>&copy; Razvan Moruju 2022</span></p>
