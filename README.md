@@ -20,3 +20,21 @@ Nothing complicated. A simple strategy has been adopted, thus ensuring that the 
 - __About Section__
 
     - This section contains a brief description of the business, such as staff experience and skills, and provides the user with an inside image of the shop.
+
+- __Opening hours and Services__
+
+    - Provides information about opening times for each day of the week, and is presenting a list of the services available plus the cost for each service.
+
+- __Address Section__
+
+    - Clearly shows to the user the shop address. It also contains a Google map window that the user can use to get directions to the shop.
+
+- __Footer__
+
+    - Provides external links to this shop social media profiles, where user can find more information about this  shop.
+    - These links, when clicked, open in new tabs or windows.
+
+- __Contact Page__
+
+    - It provide the shop telephone number for the user.
+    - A contact form is present here that the user can use to leave a message and his contact details to be contacted by the shop.
