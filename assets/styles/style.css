@@ -91,7 +91,7 @@ h1 {
 /* opening hours and prices */
 
 #opening-hours {
-    background: url(../images/pexels-henry-&-co-7467270.jpg) center center;
+    background: url(../images/barber-pole.jpg) center center;
     background-size: cover;
     text-align: center;
     height: 450px;
@@ -162,6 +162,11 @@ h1 {
 #address h2 {
     margin-top: 0;
     padding-top: 30px;
+}
+
+iframe {
+    width: 100%;
+    height: 250px;
 }
 
 /* Footer */
