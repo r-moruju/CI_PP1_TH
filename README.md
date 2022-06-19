@@ -11,3 +11,12 @@ Nothing complicated. A simple strategy has been adopted, thus ensuring that the 
 
     - It has a presence on all three pages, will always contain links to all pages and highlights the current page.
     - The user can use it to navigate around website, and thanks to highlight feature he will always know the current page and never feel lost.
+
+- __Header__
+
+    - The header background image will tell the user exactly what is this site about from the first look at the page.
+    - The same header background image is carried across all pages to ensure user that he is browsing the same website.
+
+- __About Section__
+
+    - This section contains a brief description of the business, such as staff experience and skills, and provides the user with an inside image of the shop.
