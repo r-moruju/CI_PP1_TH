@@ -65,7 +65,7 @@ h1 {
 }
 
 #inside-shop {
-    height: 360px;
+    height: auto;
     width: 44.5%;
     float: right;
     padding-right: 5%;
@@ -295,5 +295,45 @@ footer ul {
     height: auto;
     width: 100%;
     background-color: #2e2f33;
+    text-align: center;
+}
+
+#gallery div {
+    display: inline-block;
+    position: relative;
+}
+
+#gallery p {
+    position: absolute;
+    top: 50px;
+    left: 5%;
+    width: 50%;
+    color: #F2F2EF;
+    font-size: 150%;
+    font-style: italic;
+    background-color: rgba(201, 188, 188, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: justify;
+}
+
+#gallery img {
+    margin: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+#gallery iframe {
+    width: 1200px;
+    height: 800px;
+    margin: 20px;
+    border: none;
+}
+
+#back-to-top {
+    background-color: #2e2f33;
+    color: #F2F2EF;
+    display: block;
+    left: 50%;
     text-align: center;
 }
