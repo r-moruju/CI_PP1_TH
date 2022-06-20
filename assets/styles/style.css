@@ -292,7 +292,8 @@ footer ul {
 /* Gallery Page*/
 
 #gallery {
-    height: 1200px;
+    height: auto;
     width: 100%;
     background-color: #2e2f33;
+    text-align: center;
 }
