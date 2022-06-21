@@ -67,6 +67,7 @@ h1 {
 #inside-shop {
     height: auto;
     width: 44.5%;
+    max-width: 600px;
     float: right;
     padding-right: 5%;
     padding-left: 0.5%;
@@ -90,16 +91,16 @@ h1 {
 
 /* opening hours and prices */
 
+#prices-and-hours-wraper {
+    position: relative;
+}
+
 #opening-hours {
     background: url(../images/barber-pole.jpg) center center;
     background-size: cover;
     text-align: center;
     height: 450px;
     width: 50%;
-}
-
-#prices-wraper {
-    position: relative;
 }
 
 #prices {
@@ -324,8 +325,8 @@ footer ul {
 }
 
 #gallery iframe {
-    width: 1200px;
-    height: 800px;
+    width: 100%;
+    height: 500px;
     margin: 20px;
     border: none;
 }
@@ -337,3 +338,49 @@ footer ul {
     left: 50%;
     text-align: center;
 }
+
+/* Media Query */
+
+@media screen and (max-width: 1100px) {
+    #inside-shop {
+        height: auto;
+        width: 90%;
+        float: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    #main {
+        height: auto;
+        text-align: center;
+    }
+
+    #main p {
+        float: none;
+        width: 90%;
+        text-align: center;
+        margin: 0;
+    }
+
+    #prices-and-hours-wraper {
+        text-align: center;
+        background-color: #2e2f33;
+    }
+
+    #opening-hours {
+        display: block;
+        width: 90%;
+    }
+
+    #prices {
+        position: unset;
+        width: 90%;
+    }
+
+    #opening-hours td {
+        padding: 10px;
+    }
+
+
+}
+    
