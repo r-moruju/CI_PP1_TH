@@ -347,7 +347,8 @@ footer ul {
         width: 90%;
         float: none;
         padding: 0;
-        margin: 0;
+        margin: 0 0 20px 0;
+        
     }
 
     #main {
@@ -363,18 +364,25 @@ footer ul {
     }
 
     #prices-and-hours-wraper {
-        text-align: center;
         background-color: #2e2f33;
+        margin: 0;
     }
 
     #opening-hours {
         display: block;
         width: 90%;
+        padding-left: 10%;
     }
 
     #prices {
         position: unset;
         width: 90%;
+        padding-left: 10%;
+    }
+
+    #contact-form {
+        width: 80%;
+        left: 10%;
     }
 
     #opening-hours td {
