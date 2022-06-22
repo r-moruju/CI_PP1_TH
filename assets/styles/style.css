@@ -406,6 +406,7 @@ footer ul {
     h1 {
         line-height: 180px;
         margin: 0;
+        font-size: 300%;
     }
 
     #navigation {
@@ -443,5 +444,14 @@ footer ul {
         width: 90%;
         left: 5%;
         margin-top: 50px;
+    }
+
+    #gallery p {
+        font-size: 100%;
+        top: 15px;
+    }
+
+    #gallery iframe {
+        height: 300px;
     }
 }
