@@ -292,6 +292,17 @@ footer ul {
     background-color: orange;
 }
 
+/* About Page */
+
+#about {
+    background-color: #2e2f33;
+    margin: 0;
+    padding: 20px 20% 20px 20%;
+    font-size: 150%;
+    color: #F2F2EF;
+    text-align: center;
+}
+
 /* Gallery Page*/
 
 #gallery {
