@@ -430,6 +430,7 @@ footer ul {
         line-height: normal;
         display: block;
         margin: 0;
+        font-size: small;
     }
 
     .active {
