@@ -434,4 +434,14 @@ footer ul {
     #opening-hours {
         height: 370px;
     }
+
+    #contact {
+        height: 900px;
+    }
+
+    #contact-form {
+        width: 90%;
+        left: 5%;
+        margin-top: 50px;
+    }
 }
