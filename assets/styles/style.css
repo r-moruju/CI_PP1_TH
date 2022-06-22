@@ -442,6 +442,10 @@ footer ul {
         height: 900px;
     }
 
+    #contact strong {
+        background-color: rgba(29, 26, 26, 0.8);
+    }
+
     #contact-form {
         width: 90%;
         left: 5%;
