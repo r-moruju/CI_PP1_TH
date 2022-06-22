@@ -426,4 +426,12 @@ footer ul {
         color: #2e2f33;
         font-style: oblique;
     }
+
+    #prices {
+        height: 370px;
+    }
+
+    #opening-hours {
+        height: 370px;
+    }
 }
