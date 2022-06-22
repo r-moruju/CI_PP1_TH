@@ -339,7 +339,7 @@ footer ul {
     text-align: center;
 }
 
-/* Media Query */
+/* Media Query for medium size screens */
 
 @media screen and (max-width: 1100px) {
     #inside-shop {
@@ -347,7 +347,7 @@ footer ul {
         width: 90%;
         float: none;
         padding: 0;
-        margin: 0 0 20px 0;
+        margin: 20px 0 20px 0;
         
     }
 
@@ -370,14 +370,12 @@ footer ul {
 
     #opening-hours {
         display: block;
-        width: 90%;
-        padding-left: 10%;
+        width: 100%;
     }
 
     #prices {
         position: unset;
-        width: 90%;
-        padding-left: 10%;
+        width: 100%;
     }
 
     #contact-form {
@@ -391,4 +389,34 @@ footer ul {
 
 
 }
-    
+
+/* Media query for small size screens*/
+
+@media screen and (max-width: 880px) {
+
+    body {
+        font-size: small;
+    }
+
+    #header {
+        text-align: center;
+        height: 180px;
+    }
+
+    h1 {
+        line-height: 180px;
+        margin: 0;
+    }
+
+    #navigation {
+        top: 10px;
+        right: 10px;
+        padding: 0;
+    }
+
+    #navigation li {
+        line-height: normal;
+        display: block;
+        margin: 0;
+    }
+}
