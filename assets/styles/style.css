@@ -504,3 +504,23 @@ footer ul {
         height: 300px;
     }
 }
+
+/* Media query for smallest size screens*/
+
+@media screen and (max-width: 450px) {
+    h1 {
+        font-size: 200%;
+    }
+
+    #main p, #main h2 {
+        font-size: 130%;
+    }
+
+    #products img {
+        width: 29%;
+    }
+
+    #prices-and-opening-hours {
+        font-size: 100%;
+    }
+}
