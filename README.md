@@ -1,7 +1,8 @@
 # The Hairdresser
-This a simple website for a local barber shop made using only HTML5 and CSS3 languages.
 
-The purpose of this site is to provide users with more information about this business and for this business to have an additional online presence outside of social media networks, reaching more users and expanding its customer base.
+![Mockup image](docs/am-i-responsive.png)
+
+[Live webpage](https://r-moruju.github.io/CI_PP1_TH/index.html)
 
 ## Table of Content
 
@@ -51,6 +52,10 @@ The purpose of this site is to provide users with more information about this bu
 </details>
 
 ## Features
+
+This a simple website for a local barber shop made using only HTML5 and CSS3 languages.
+
+The purpose of this site is to provide users with more information about this business and for this business to have an additional online presence outside of social media networks, reaching more users and expanding its customer base.
 
 Nothing complicated. A simple strategy has been adopted, thus ensuring that the user will not have any problems in easily navigating around the website.
 
