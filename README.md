@@ -1,4 +1,4 @@
-# The Hairdresser
+# The Hair Master
 
 ![Mockup image](docs/am-i-responsive.png)
 
