@@ -36,6 +36,20 @@
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
 
+## Project Goals 
+
+### User Goals
+- Finding a barber shop that offers a nice atmosphere and good services.
+- See service prices and opening hours.
+- Find information about the barber shop.
+- Find the location of the barber shop
+
+### Site Owner Goals
+- Increase in the number of customers.
+- Promote the bussines.
+- Provide a way for new and existing customers to contact the buissnes.
+- Provide essential information about the bussines to customers.
+
 ### Wireframes
 
 <details><summary>Home</summary>
