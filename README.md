@@ -85,14 +85,21 @@
 11. As a returning user, I want to get directions to the restaurant
 
 #### Site Owner 
-13. As the site owner, I want users to find news about upcoming events or changes in opening times
-14. As the site owner, I want users to get to know the barber shop 
-15. As the site owner, I want the users to be able to contact us
+12. As the site owner, I want users to find news about upcoming events or changes in opening times
+13. As the site owner, I want users to get to know the barber shop 
+14. As the site owner, I want the users to be able to contact us
 
 ## Design
 
 ### Design Choices
-Considering that the website will be mostly visited by men, a simple and straightforward design has been adopted, with little attention to details. Today's men have a full life and little time to waste, so they want to be able to cut their hair without wasting time, while keeping up with fashion.
+Considering that the website will be mostly visited by men, a simple and straightforward design has been adopted, with little attention to details. Today's men have a full life and little time to waste, so they want to be able to cut their hair without wasting time and any distraction, while keeping up with fashion.
+
+### Colour
+For color the simple and masculine style was maintained. ColorSpace was used to generate shades starting from the dark navy color
+which is also the colour theme of the actual barber shop.
+<br>
+
+![Colour scheme](docs/features/color-palette.png)
 
 ### Wireframes
 
