@@ -47,8 +47,8 @@ h1 {
 }
 
 #navigation a:hover {
-    color: bisque;
-    border: solid 2px bisque;
+    color: #d6a419;
+    border: solid 2px #d6a419;
 }
 
 .active {
@@ -288,7 +288,7 @@ footer ul {
 }
 
 .send-button:hover {
-    background-color: orange;
+    background-color: #d6a419;
 }
 
 /* About Page */
