@@ -67,6 +67,28 @@
 - Simple content that the user can skim read
 - Accessibility
 
+### User Stories
+
+#### First-time User 
+1. As a first time user, I want to know where the barber shop is lokated
+2. As a first time user, I want to know the price range
+3. As a first time user, I want to know more about the barber shop
+4. As a first time user, I want to get a feel of what to expect at the barber shop
+
+#### Returning User
+5. As a returning user, I want to see examples of haircuts
+6. As a returnign user, I want to know the opening times
+7. As a returning user, I want to find a phone number to call for reservation
+8. As a returning user, I want to see other customers reviews
+9. As a returning user, I want to leave some comment, suggestion or message to the staff
+10. As a returning user, I want to find the barber shop on social media
+11. As a returning user, I want to get directions to the restaurant
+
+#### Site Owner 
+13. As the site owner, I want users to find news about upcoming events or changes in opening times
+14. As the site owner, I want users to get to know the barber shop 
+15. As the site owner, I want the users to be able to contact us
+
 ### Wireframes
 
 <details><summary>Home</summary>
