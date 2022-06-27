@@ -105,6 +105,14 @@ which is also the colour theme of the actual barber shop.
 Google fonts has been imported and "Josefin Sans" has been used for all the text inside the website with sans-serif as a fallback.
 Only for the logo has been used "Lobster" with cursive as a fallback which match the shop outside sign.
 
+### Structure
+The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the barber shop logo on the left side and the navigation links to the right. 
+The website consists of four separate pages: 
+- A homepage with a sections about opening hours, services, address and little description about the business
+- An about page where more description is given and also what product are being used
+- A gallery page with customers images and their reviews
+- A contact page with a contact form
+
 ### Wireframes
 
 <details><summary>Home</summary>
