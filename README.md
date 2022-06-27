@@ -89,6 +89,11 @@
 14. As the site owner, I want users to get to know the barber shop 
 15. As the site owner, I want the users to be able to contact us
 
+## Design
+
+### Design Choices
+Considering that the website will be mostly visited by men, a simple and straightforward design has been adopted, with little attention to details. Today's men have a full life and little time to waste, so they want to be able to cut their hair without wasting time, while keeping up with fashion.
+
 ### Wireframes
 
 <details><summary>Home</summary>
