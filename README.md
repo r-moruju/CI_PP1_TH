@@ -21,7 +21,7 @@
     5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    2. [Tools](#tools)
 5. [Features](#features)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
@@ -127,6 +127,22 @@ The website consists of four separate pages:
 <details><summary>Contact</summary>
 <img src="docs/wireframes/wireframe-contact-page.png">
 </details>
+
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- Gitpod
+- Windows Paint
+- Balsamiq
+- Google Fonts
+- ColorSpace
+- Font Awsome
 
 ## Features
 
