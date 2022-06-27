@@ -101,6 +101,10 @@ which is also the colour theme of the actual barber shop.
 
 ![Colour scheme](docs/features/color-palette.png)
 
+### Fonts
+Google fonts has been imported and "Josefin Sans" has been used for all the text inside the website with sans-serif as a fallback.
+Only for the logo has been used "Lobster" with cursive as a fallback which match the shop outside sign.
+
 ### Wireframes
 
 <details><summary>Home</summary>
