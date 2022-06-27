@@ -50,6 +50,23 @@
 - Provide a way for new and existing customers to contact the buissnes.
 - Provide essential information about the bussines to customers.
 
+## User Experience
+
+### Target Audience
+- People looking for a place to get ther hair cut
+- People looking for the latest haircut techniques
+- People looking for current fashion in haircuts
+
+### User Requrements and Expectations
+
+- A simple and intuitive navigation system
+- Quickly and easily find relevant information
+- Links and functions that work as expected
+- Good presentation and a visually appealing design regardless of screen size
+- An easy way to contact the bussines
+- Simple content that the user can skim read
+- Accessibility
+
 ### Wireframes
 
 <details><summary>Home</summary>
