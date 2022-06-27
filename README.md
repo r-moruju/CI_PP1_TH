@@ -145,6 +145,17 @@ The website consists of four separate pages:
 - Font Awsome
 
 ## Features
+The page consists of four pages and thirteen features
+
+### Logo and Navigation Bar
+- Featured on all four pages
+- The navbar is fully responsive and includes
+links to the Homepage, Gallery, About and Contact page
+- It allows users to easily navigate the website
+- The link for the page the user is currently on is highlighted 
+
+![Logo and navbar](docs/features/logo-and-navigation.png)
+
 
 This a simple website for a local barber shop made using only HTML5 and CSS3 languages.
 
