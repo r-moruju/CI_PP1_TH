@@ -145,7 +145,7 @@ The website consists of four separate pages:
 - Font Awsome
 
 ## Features
-The page consists of four pages and thirteen features
+The page consists of four pages and eleven features
 
 ### Logo and Navigation Bar
 - Featured on all four pages
@@ -206,3 +206,20 @@ links to the Homepage, Gallery, About and Contact page
 - User stories covered: 7, 9, 14
 
 ![Contact](docs/features/contact.png)
+
+## Validation
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+<details><summary>Home</summary>
+<img src="docs/validation/validation-html-index.png">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/validation/validation-html-gallery.jpg">
+</details>
+<details><summary>About</summary>
+<img src="docs/validation/validation-html-about.jpg">
+</details>
+<details><summary>Home</summary>
+<img src="docs/validation/validation-html-contact.jpg">
+</details>
