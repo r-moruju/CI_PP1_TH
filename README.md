@@ -178,10 +178,12 @@ links to the Homepage, Gallery, About and Contact page
 
 ![Address and Map](docs/features/address-and-map.png)
 
-- __Footer__
+### Footer
+- Provides external links to this shop social media profiles, where user can find more information about this shop
+- These links, when clicked, open in new tabs or windows
+- User stories covered: 10
 
-    - Provides external links to this shop social media profiles, where user can find more information about this  shop.
-    - These links, when clicked, open in new tabs or windows.
+![Footer](docs/features/footer.png)
 
 - __Contact Page__
 
