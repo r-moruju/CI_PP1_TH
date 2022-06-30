@@ -175,14 +175,11 @@ The purpose of this site is to provide users with more information about this bu
 
 Nothing complicated. A simple strategy has been adopted, thus ensuring that the user will not have any problems in easily navigating around the website.
 
+### Address and Google map
+- Clearly shows to the user the shop address 
+- It also contains a Google map window that the user can use to get directions to the shop
 
-- __About Section__
-
-    - This section contains a brief description of the business, such as staff experience and skills, and provides the user with an inside image of the shop.
-
-- __Address Section__
-
-    - Clearly shows to the user the shop address. It also contains a Google map window that the user can use to get directions to the shop.
+![Address and Map](docs/features/address-and-map.png)
 
 - __Footer__
 
