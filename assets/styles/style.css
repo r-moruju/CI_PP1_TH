@@ -3,13 +3,14 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
     margin: 0;
+    background-color: #2e2f33;
 }
 
 /* header */
 
 h1 {
     font-family: 'Lobster', cursive;
-    color: #d6a419;
+    color: #F2F2EF;
     line-height: 270px;
     margin-left: 50px;
     font-size: 400%;
@@ -41,7 +42,7 @@ h1 {
 }
 
 #navigation li a {
-    color: #d6a419;
+    color: #F2F2EF;
     text-decoration: none;
     padding: 5px;
 }
