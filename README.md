@@ -156,6 +156,12 @@ links to the Homepage, Gallery, About and Contact page
 
 ![Logo and navbar](docs/features/logo-and-navigation.png)
 
+### Busssines introduction on home page
+- Provides a brief description of the barber shop
+- Presents the user with an image of the shop
+
+![Brief description](docs/features/brief-description.png)
+
 
 This a simple website for a local barber shop made using only HTML5 and CSS3 languages.
 
