@@ -230,3 +230,18 @@ When validating custom CSS it passes with no errors found, and just one warning 
 <details><summary>Style.css</summary>
 <img src="docs/validation/validation-css-style.png">
 </details>
+
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+<details><summary>Home</summary>
+<img src="docs/validation/validation-accessibility-index.jpg">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/validation/validation-accessibility-gallery.jpg">
+</details>
+<details><summary>About</summary>
+<img src="docs/validation/validation-accessibility-about.jpg">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/validation-accessibility-contact.jpg">
+</details>
