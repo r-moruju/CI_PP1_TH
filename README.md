@@ -85,7 +85,7 @@
 11. As a returning user, I want to get directions to the restaurant
 
 #### Site Owner 
-12. As the site owner, I want users to find news about upcoming events or changes in opening times
+12. As the site owner, I want users to know what products we use
 13. As the site owner, I want users to get to know the barber shop 
 14. As the site owner, I want the users to be able to contact us
 
@@ -193,7 +193,16 @@ links to the Homepage, Gallery, About and Contact page
 
 ![Gallery Page](docs/features/gallery.png)
 
-- __Contact Page__
+### About Page
+- Contains a more detailed description of the barber shop
+- Provides details about the products used by the shop
+- User stories covered: 3, 12, 13
 
-    - It provide the shop telephone number for the user.
-    - A contact form is present here that the user can use to leave a message and his contact details to be contacted by the shop.
+![About](docs/features/about.png)
+
+### Contact Page
+- It provide the shop telephone number for the user
+- A contact form is present here that the user can use to leave a message and his contact details to be contacted by the shop
+- User stories covered: 7, 9, 14
+
+![Contact](docs/features/contact.png)
