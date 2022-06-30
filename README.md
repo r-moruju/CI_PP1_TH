@@ -70,7 +70,7 @@
 ### User Stories
 
 #### First-time User 
-1. As a first time user, I want to know where the barber shop is lokated
+1. As a first time user, I want to know where the barber shop is located
 2. As a first time user, I want to know the price range
 3. As a first time user, I want to know more about the barber shop
 4. As a first time user, I want to get a feel of what to expect at the barber shop
@@ -159,6 +159,7 @@ links to the Homepage, Gallery, About and Contact page
 ### Busssines introduction on home page
 - Provides a brief description of the barber shop
 - Presents the user with an image of the shop
+- User stories covered: 3, 4, 13
 
 ![Brief description](docs/features/brief-description.png)
 
@@ -166,18 +167,14 @@ links to the Homepage, Gallery, About and Contact page
 - Presents the weekly schedule with working hours
 - Show available services
 - Shows the price of each service
+- User stories covered: 2, 6
 
 ![Opening hours and services](docs/features/opening-hours-and-services.png)
-
-This a simple website for a local barber shop made using only HTML5 and CSS3 languages.
-
-The purpose of this site is to provide users with more information about this business and for this business to have an additional online presence outside of social media networks, reaching more users and expanding its customer base.
-
-Nothing complicated. A simple strategy has been adopted, thus ensuring that the user will not have any problems in easily navigating around the website.
 
 ### Address and Google map
 - Clearly shows to the user the shop address 
 - It also contains a Google map window that the user can use to get directions to the shop
+- User stories covered: 1, 11
 
 ![Address and Map](docs/features/address-and-map.png)
 
