@@ -185,6 +185,14 @@ links to the Homepage, Gallery, About and Contact page
 
 ![Footer](docs/features/footer.png)
 
+### Gallery Page
+- Contains images with satisfied customers
+- Contains customer reviews
+- Contains a youtube video about types of haircuts
+- User stories covered: 3, 4, 5, 8, 13
+
+![Gallery Page](docs/features/gallery.png)
+
 - __Contact Page__
 
     - It provide the shop telephone number for the user.
