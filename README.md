@@ -261,3 +261,30 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <details><summary>Contact</summary>
 <img src="docs/validation/performance-contact.png">
 </details>
+
+### Performing tests on various devices 
+The website was tested on the following devices:
+- Lenovo Ideapad 5
+- Samsung Galaxy Tab 8 Ultra
+- iPhone 12
+- Xiaomi Redmi Note 11 Pro
+
+In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+
+### Browser compatability
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Egde
+
+### Testing user stories
+
+1. As a first time user, I want to know where the barber shop is located
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Address and Google map | Scrool down on home page, locate the Address and the Google Map | Locating a map showing the location of the barber shop | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1.png">
+</details>
