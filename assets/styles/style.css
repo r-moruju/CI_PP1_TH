@@ -139,9 +139,10 @@ h1 {
     font-weight: bold;
 }
 
-#prices p {
+#prices h3 {
     padding-bottom: 1rem;
     color: #F2F2EF;
+    font-size: 100%;
 }
 
 #prices h2 {
@@ -165,6 +166,10 @@ h1 {
 #address h2 {
     margin-top: 0;
     padding-top: 30px;
+}
+
+#address h3 {
+    font-size: 100%;
 }
 
 iframe {
