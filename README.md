@@ -283,8 +283,18 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Address and Google map | Scrool down on home page, locate the Address and the Google Map | Locating a map showing the location of the barber shop | Works as expected |
+| Address and Google map | Scroll down on home page, locate the Address and the Google Map | Locating a map showing the location of the barber shop | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-1.png">
+</details>
+
+2. As a first time user, I want to know the price range
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Opening hours and Services | Scroll down on home page, locate Services | See prices on Services section | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-2.png">
 </details>
