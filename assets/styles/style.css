@@ -534,4 +534,12 @@ fieldset {
     #prices-and-opening-hours {
         font-size: 100%;
     }
+
+    #contact h2 {
+        font-size: 180%;
+    }
+
+    #contact p {
+        font-size: 120%;
+    }
 }
