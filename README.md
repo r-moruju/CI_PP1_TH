@@ -234,14 +234,14 @@ When validating custom CSS it passes with no errors found, and just one warning 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 <details><summary>Home</summary>
-<img src="docs/validation/validation-accessibility-index.jpg">
+<img src="docs/validation/accessibility-index.png">
 </details>
 <details><summary>Gallery</summary>
-<img src="docs/validation/validation-accessibility-gallery.jpg">
+<img src="docs/validation/accessibility-gallery.png">
 </details>
 <details><summary>About</summary>
-<img src="docs/validation/validation-accessibility-about.jpg">
+<img src="docs/validation/accessibility-about.png">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/validation/validation-accessibility-contact.jpg">
+<img src="docs/validation/accessibility-contact.png">
 </details>
