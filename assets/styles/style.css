@@ -102,6 +102,7 @@ h1 {
     text-align: center;
     height: 450px;
     width: 50%;
+    background-color: #F2F2EF;
 }
 
 #prices {
@@ -290,6 +291,12 @@ footer ul {
 
 .send-button:hover {
     background-color: #d6a419;
+}
+
+fieldset {
+    border: none;
+    margin: 0;
+    padding: 0;
 }
 
 /* About Page */
