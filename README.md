@@ -303,10 +303,22 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Busssines introduction on home page | On home page | Find description of the restaurant | Works as expected |
+| Bussines introduction on home page | On home page | Find description of the restaurant | Works as expected |
 | About page | Navigate to the About page | Read description | Works as expected | 
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-3v1.png">
 <img src="docs/user-story-testing/user-story-3v2.png">
+</details>
+
+4. As a first time user, I want to get a feel of what to expect at the barber shop
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery | Navigate to the Gallery page | Find pictures of the happy customers and their reviews | Works as expected |
+| Bussines introduction on home page | On home page | Watch image from inside the shop | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-4v1.png">
+<img src="docs/user-story-testing/user-story-4v2.png">
 </details>
