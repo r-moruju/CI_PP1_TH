@@ -322,3 +322,13 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-4v1.png">
 <img src="docs/user-story-testing/user-story-4v2.png">
 </details>
+
+5. As a returning user, I want to see examples of haircuts
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery Page | Navigate to the Gallery page |  Find pictures of haircuts | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-5.png">
+</details>
