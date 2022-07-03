@@ -424,3 +424,11 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-9.png">
 </details>
+
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Images on gallery page was overflow the container on small screens when image width was set to 100% | Change image width to 90% |
+| Contrast error getting on "Opening Hours" even with background-color set | Declare background-color after declaring background-image |
+
