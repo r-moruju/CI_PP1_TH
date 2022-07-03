@@ -382,3 +382,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-10.png">
 </details>
+
+12. As a returning user, I want to get directions to the Barber shop
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Address and Google map | On Home page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1.png">
+</details>
