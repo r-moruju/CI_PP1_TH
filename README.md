@@ -82,7 +82,7 @@
 8. As a returning user, I want to see other customers reviews
 9. As a returning user, I want to leave some comment, suggestion or message to the staff
 10. As a returning user, I want to find the barber shop on social media
-11. As a returning user, I want to get directions to the restaurant
+11. As a returning user, I want to get directions to the barber shop
 
 #### Site Owner 
 12. As the site owner, I want users to know what products we use
@@ -331,4 +331,24 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-5.png">
+</details>
+
+6. As a returnign user, I want to know the opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Opening hours and Services | Scroll down on home page, locate Opening hours | See opening times | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-6.png">
+</details>
+
+7. As a returning user, I want to find a phone number to call for reservation
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Page | Navigate to contact page | See phone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7.png">
 </details>
