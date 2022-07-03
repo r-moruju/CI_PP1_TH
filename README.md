@@ -383,7 +383,7 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-10.png">
 </details>
 
-12. As a returning user, I want to get directions to the Barber shop
+11. As a returning user, I want to get directions to the Barber shop
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -391,4 +391,36 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-1.png">
+</details>
+
+12. As the site owner, I want users to know what products we use
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About page | Navigate to the About page, locate images with products used | See products used | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-12.png">
+</details>
+
+13. As the site owner, I want users to get to know the Barber shop
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Bussines introduction on home page | On home page | Find description of the restaurant | Works as expected |
+| About page | Navigate to the About page | Read description | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3v1.png">
+<img src="docs/user-story-testing/user-story-3v2.png">
+</details>
+
+14. As the site owner, I want the users to be able to contact us
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-9.png">
 </details>
