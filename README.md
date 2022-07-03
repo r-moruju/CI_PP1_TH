@@ -352,3 +352,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-7.png">
 </details>
+
+8. As a returning user, I want to see other customers reviews
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery Page | Navigate to the Gallery page | Read reviews | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-8.png">
+</details>
