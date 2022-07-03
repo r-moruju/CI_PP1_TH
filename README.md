@@ -362,3 +362,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-8.png">
 </details>
+
+9. As a returning user, I want to leave some comment, suggestion or message to the staff
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-9.png">
+</details>
