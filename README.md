@@ -455,3 +455,8 @@ You can clone the repository by following these steps:
 ## Credits
 
 All images are taken from <a href= "https://www.pexels.com/ro-ro/">pexels.com</a>  posted by <a href ="https://www.pexels.com/ro-ro/@thgusstavo/">Thgusstavo Santana</a>, <a href ="https://www.pexels.com/ro-ro/@cottonbro/">cottonbro</a> and <a href ="https://www.pexels.com/ro-ro/@multimediayreaccion/">Mídia</a>
+
+## Acknowledgements
+I would like to take the opportunity to thank:
+- My mentor Mo Shami for his feedback, advice, guidance and support.
+- Myself for doing all the hard work
