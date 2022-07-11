@@ -540,6 +540,10 @@ fieldset {
     }
 
     #contact p {
-        font-size: 120%;
+        font-size: 100%;
+    }
+    
+    .radio {
+        font-size: 80%;
     }
 }
