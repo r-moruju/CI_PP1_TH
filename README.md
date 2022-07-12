@@ -145,7 +145,7 @@ The website consists of four separate pages:
 - Font Awsome
 
 ## Features
-The page consists of four pages and eleven features
+The page consists of four pages and twelves features
 
 ### Logo and Navigation Bar
 - Featured on all four pages
@@ -206,6 +206,12 @@ links to the Homepage, Gallery, About and Contact page
 - User stories covered: 7, 9, 14
 
 ![Contact](docs/features/contact.png)
+
+### 404 Page
+- A custom 404 page have been created in case that the user lands on a non existing page
+- Contain a link to home page
+
+![404](docs/features/404.png)
 
 ## Validation
 
