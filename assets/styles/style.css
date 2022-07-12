@@ -463,6 +463,26 @@ fieldset {
         padding: 20px 10% 20px 10%;
     }
 
+    #outside-shop img {
+        float: none;
+        margin: 0;
+        width: 100%;
+    }
+
+    #outside-shop {
+        height: fit-content;
+    }
+
+    #team img {
+        float: none;
+        margin: 0;
+        width: 100%;
+    }
+
+    #team {
+        height: fit-content;
+    }
+
     #contact-form {
         width: 80%;
         left: 10%;
