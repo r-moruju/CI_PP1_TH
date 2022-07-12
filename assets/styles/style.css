@@ -321,22 +321,23 @@ fieldset {
 
 #team {
     width: 100%;
-    height: auto;
+    height: 500px;
 }
 
 #outside-shop img {
     float: right;
+    margin-left: 3%;
     width: 50%;
-    max-width: 390px;
     height: auto;
-    display: block;
+    border-radius: 3%;
 }
 
 #team img {
     float: left;
+    margin-right: 3%;
     width: 50%;
     height: auto;
-    display: block;
+    border-radius: 3%;
 }
 
 #products {
@@ -347,7 +348,7 @@ fieldset {
 #products img {
     width: 30%;
     height: auto;
-    padding: 1.2%;
+    padding: 1.1%;
 }
 
 /* Gallery Page*/
