@@ -229,6 +229,9 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <details><summary>Contact</summary>
 <img src="docs/validation/validation-html-contact.png">
 </details>
+<details><summary>404</summary>
+<img src="docs/validation/validation-html-404.png">
+</details>
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
