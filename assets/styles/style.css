@@ -206,7 +206,7 @@ footer ul {
 /* Contact Page */
 
 #contact {
-    height: 1200px;
+    height: 1100px;
     width: 100%;
     background: url(../images/contact-cover.jpg) no-repeat center;
     background-size: cover;
@@ -591,6 +591,10 @@ fieldset {
 
     #prices-and-opening-hours {
         font-size: 100%;
+    }
+
+    #contact {
+        height: 760px;
     }
 
     #contact h2 {
