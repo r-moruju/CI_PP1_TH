@@ -270,6 +270,9 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <details><summary>Contact</summary>
 <img src="docs/validation/performance-contact.png">
 </details>
+<details><summary>404</summary>
+<img src="docs/validation/performance-404.png">
+</details>
 
 ### Performing tests on various devices 
 The website was tested on the following devices:
